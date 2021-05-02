@@ -61,8 +61,8 @@ section {
     width: 500px;
     border: solid 3px #024e76;
     position: absolute;
-    bottom: 0px;
-    right: 0px;
+    bottom: 120px;
+    right: 140px;
 }
 
 .hero-form h3 {
